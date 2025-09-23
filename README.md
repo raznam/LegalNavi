@@ -11,11 +11,7 @@ final steps:
 step 1: now go to terminal and write 'npm run dev' (run the forntend)
 step 2 : now open a new terminal and write 'python mulla.py' (run the backend)
 
-UR CLONE SHOULD BE READY TO USE :
-
-** u may face problem like expiry of API keys u can just get them urself by going the the specific web site **
- if any more arises  contact me on 'sudipto.ghosh360@gmail.com'
-
+YOUR CLONE SHOULD BE READY TO USE :
 
 
  HAPPY CODING
